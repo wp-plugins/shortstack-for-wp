@@ -12,9 +12,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 [ShortStack](http://www.shortstack.com) is a self-service platform that helps
 you build engaging social Campaigns.
 
-ShortStack __subscribers on plans that include the embedding feature__ can
-install this plugin to enable the web embed shortcode `[shortstack]` within
-WordPress. This will embed ShortStack Campaigns within Posts and Pages.
+ShortStack users can install this plugin to enable the web embed shortcode
+`[shortstack]` within WordPress. This will embed ShortStack Campaigns within Posts
+and Pages.
 
 == Installation ==
 
