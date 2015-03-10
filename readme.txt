@@ -10,17 +10,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 [ShortStack](http://www.shortstack.com) is a self-service platform that helps
-you build engaging social Campaigns.
+you build engaging Campaigns for social, web and mobile.
 
 ShortStack users can install this plugin to enable the web embed shortcode
-`[shortstack]` within WordPress. This will embed ShortStack Campaigns within Posts
-and Pages.
+`[shortstack]` within WordPress. Shortcodes can be copied from ShortStack to
+Wordpress Posts and Pages.
 
 == Installation ==
 
 = Prerequisites =
-- This plugin uses ShortStack's __Embed__ feature, which is included
-  in a number of [ShortStack's paid plans](http://www.shortstack.com/pricing/).
+- This plugin utilizes ShortStack's __Embed__ feature.
 - The Campaign must be published. You can only embed published Campaigns.
 
 = Setup =
@@ -33,7 +32,7 @@ and Pages.
 3. Select and copy the __WordPress Shortcode__.
 4. Paste the shortcode anywhere inside the body of a Post or Page within your WordPress installation.
 
-  _Example:_ `[shortstack smart_url='//a.pgtb.me/#####' width='960' height='763']`
+_Example:_ `[shortstack smart_url='//a.pgtb.me/#####' width='960' height='763']`
 
 == Frequently Asked Questions ==
 
@@ -54,4 +53,3 @@ Check our [detailed help docs](http://docs.shortstackapp.com) or [contact our su
 
 = 0.0.1 =
 * First release.
-
