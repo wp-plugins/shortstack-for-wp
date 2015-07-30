@@ -3,18 +3,17 @@ Contributors: shortstackben
 Tags: shortstack, facebook, campaign, embed, contest, promotion
 Requires at least: 2.5.0
 Tested up to: 4.2.3
-Stable tag: trunk
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
 [ShortStack](http://www.shortstack.com) is a self-service platform that helps
-you build engaging Campaigns for social, web and mobile.
+you build contests, landing pages, and Campaigns for social, web and mobile.
 
 ShortStack users can install this plugin to enable the web embed shortcode
-`[shortstack]` within WordPress. Shortcodes can be copied from ShortStack to
-Wordpress Posts and Pages.
+`[shortstack smart_url='//a.pgtb.me/#####' responsive='true' autoscroll_p='true']` within WordPress. Shortcodes can be copied from ShortStack to Wordpress Posts and Pages.
 
 == Installation ==
 
@@ -28,11 +27,11 @@ Wordpress Posts and Pages.
 
 = Usage =
 1. Within the Campaign Designer, open the [Embed Settings](http://docs.shortstackapp.com/article/176-embed-to-the-web) panel for your published campaign.
-2. Click on the __Using Wordpress?__ link below the Embed Code field.
+2. Click on the __WordPress__ link on the left of the dialog.
 3. Select and copy the __WordPress Shortcode__.
 4. Paste the shortcode anywhere inside the body of a Post or Page within your WordPress installation.
 
-_Example:_ `[shortstack smart_url='//a.pgtb.me/#####' width='960' height='763']`
+_Example:_ `[shortstack smart_url='//a.pgtb.me/#####' responsive='true' autoscroll_p='true']`
 
 == Frequently Asked Questions ==
 
@@ -50,6 +49,11 @@ Maybe! We live on feedback. [Send our support team a note!](http://shortstack.ze
 Check our [detailed help docs](http://docs.shortstackapp.com) or [contact our support team](http://shortstack.zendesk.com/).
 
 == Changelog ==
+
+= 1.0.1 =
+* Adds support for the ShortStack responsive embed code and improves mobile support
+* Removes iframe border
+* Adds scrollbar to fixed embed code when necessary
 
 = 0.0.1 =
 * First release.

@@ -3,7 +3,7 @@
  * Plugin Name: ShortStack for WP
  * Plugin URI: http://www.shortstack.com
  * Description: Provides a shortcode for embedding published ShortStack Campaigns into WordPress
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: ShortStack.com
  * Author Email: theteam@shortstacklab.com
  * Author URI: http://www.shortstack.com/
