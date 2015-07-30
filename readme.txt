@@ -62,3 +62,6 @@ Check our [detailed help docs](http://docs.shortstackapp.com) or [contact our su
 
 = 1.0.1 =
 * Better support for responsive themes and mobile browsers
+
+= 0.0.1 =
+* Embed ShortStack Campaigns within WordPress
